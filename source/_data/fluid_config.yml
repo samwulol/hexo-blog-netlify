@@ -1,12 +1,12 @@
 navbar:
-  blog_title: 演示站点
+  blog_title: samwu的技术小站
   ground_glass:
     enable: true
 index:
   banner_img: /images/uploads/headline.jpg
   banner_img_height: 100
   slogan:
-    text: samwu的技术小站
+    text: 是不是犟嘴了？
 post:
   banner_img: /images/uploads/mmexport1602581319886.webp
   banner_img_height: 70
