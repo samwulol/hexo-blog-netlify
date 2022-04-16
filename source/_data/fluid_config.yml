@@ -3,7 +3,7 @@ navbar:
   ground_glass:
     enable: true
 index:
-  banner_img: /images/uploads/background.jpg
+  banner_img: /images/uploads/headline.jpg
   banner_img_height: 100
   slogan:
     text: samwu的技术小站
